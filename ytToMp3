@@ -11,7 +11,7 @@ try:
 except:
     print("ytToMp3 by Poki")
     print("Usage: ytToMp3 link")
-    print("NOTE: Only Youtube links are supported!")
+    print("NOTE! Only Youtube links are supported!")
 
 if(o):
     if os.name == 'nt':
